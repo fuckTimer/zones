@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@master
 
       - name: Backblaze B2 Sync
-        uses: jakejarvis/backblaze-b2-action@v0.1.0
+        uses: jakejarvis/backblaze-b2-action@master
         env:
           SOURCE_DIR: './files'
           B2_BUCKET: ${{ secrets.B2_BUCKET }}
