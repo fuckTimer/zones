@@ -1,6 +1,6 @@
 ---
 name: Add zone
-about: Use this template, if you adding a __new__ zone.
+about: Use this template, if you adding a new zone.
 
 ---
 ## Description
