@@ -8,6 +8,25 @@
 		"teleport"		"0.000000 0.000000 0.000000"
 		"start"		"1539.864258 1599.842651 -2.396461"
 		"end"		"1306.344727 1536.041138 198.356827"
+		"radius"		"150.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"AntiJump"		"0"
+				"Tier"		"1"
+				"start"		"1"
+				"end"		"0"
+				"Stop"		"0"
+				"TeleToStart"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Validator"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+			}
+		}
 	}
 	"main0_end"
 	{
@@ -17,5 +36,24 @@
 		"teleport"		"0.000000 0.000000 0.000000"
 		"start"		"1542.510498 1279.908447 -3.095367"
 		"end"		"1305.032837 1215.993896 198.822632"
+		"radius"		"150.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"AntiJump"		"0"
+				"Tier"		"1"
+				"start"		"0"
+				"end"		"1"
+				"Stop"		"0"
+				"TeleToStart"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Validator"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+			}
+		}
 	}
 }
