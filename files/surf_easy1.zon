@@ -245,7 +245,7 @@
 				"TeleToStart"		"0"
 				"bonus"		"0"
 				"Checkpoint"		"0"
-				"Validator"		"0"
+				"Validator"		"2"
 				"Misc"		"1"
 				"Checker"		"1"
 				"Stage"		"0"
@@ -276,7 +276,7 @@
 				"Validator"		"1"
 				"Misc"		"1"
 				"Checker"		"0"
-				"Stage"		"2"
+				"Stage"		"0"
 			}
 		}
 		"radius"		"150.000000"
@@ -304,7 +304,7 @@
 				"Validator"		"1"
 				"Misc"		"1"
 				"Checker"		"0"
-				"Stage"		"2"
+				"Stage"		"0"
 			}
 		}
 		"radius"		"150.000000"
