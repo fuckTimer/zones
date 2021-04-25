@@ -335,6 +335,7 @@
 				"Stage"		"2"
 			}
 		}
+		"radius"		"150.000000"
 	}
 	"bonus_stage3"
 	{
@@ -360,6 +361,61 @@
 				"Misc"		"0"
 				"Checker"		"0"
 				"Stage"		"3"
+			}
+		}
+		"radius"		"150.000000"
+	}
+	"bonus_validator1"
+	{
+		"type"		"Box"
+		"color"		"255 20 147 255"
+		"display"		"Full"
+		"teleport"		"0.000000 0.000000 0.000000"
+		"start"		"3968.045654 10623.968750 -782.394043"
+		"end"		"4351.642090 11007.801758 -278.968750"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"AntiJump"		"0"
+				"Tier"		"0"
+				"start"		"0"
+				"end"		"0"
+				"Stop"		"0"
+				"TeleToStart"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Validator"		"1"
+				"Misc"		"1"
+				"Checker"		"0"
+				"Stage"		"0"
+			}
+		}
+	}
+	"bonus_checker1"
+	{
+		"type"		"Box"
+		"color"		"255 20 147 255"
+		"display"		"Full"
+		"teleport"		"0.000000 0.000000 0.000000"
+		"start"		"4687.968750 10431.632812 -781.024536"
+		"end"		"4815.398926 10304.499023 -278.968750"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"AntiJump"		"0"
+				"Tier"		"0"
+				"start"		"0"
+				"end"		"0"
+				"Stop"		"0"
+				"TeleToStart"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Validator"		"1"
+				"Misc"		"1"
+				"Checker"		"1"
+				"Stage"		"0"
 			}
 		}
 	}
