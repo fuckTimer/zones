@@ -309,42 +309,14 @@
 		}
 		"radius"		"150.000000"
 	}
-	"bonus1_cp2"
-	{
-		"type"		"Box"
-		"color"		"255 20 147 255"
-		"display"		"Bottom"
-		"teleport"		"0.000000 0.000000 0.000000"
-		"start"		"2495.858643 9792.163086 -778.968750"
-		"end"		"2112.652100 10943.834961 -778.968750"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"AntiJump"		"0"
-				"Tier"		"0"
-				"start"		"0"
-				"end"		"0"
-				"Stop"		"0"
-				"TeleToStart"		"0"
-				"bonus"		"1"
-				"Checkpoint"		"2"
-				"Validator"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-			}
-		}
-		"radius"		"150.000000"
-	}
-	"bonus1_cp3"
+	"bonus_stage2"
 	{
 		"type"		"Box"
 		"color"		"255 20 147 255"
 		"display"		"Full"
 		"teleport"		"0.000000 0.000000 0.000000"
-		"start"		"5435.896484 9362.310547 -1002.968750"
-		"end"		"4933.776855 11407.968750 -100.779755"
+		"start"		"2495.236084 9791.968750 -782.528931"
+		"end"		"2111.973145 10944.031250 -378.968750"
 		"effects"
 		{
 			"fuckTimer"
@@ -356,11 +328,38 @@
 				"Stop"		"0"
 				"TeleToStart"		"0"
 				"bonus"		"1"
-				"Checkpoint"		"3"
+				"Checkpoint"		"0"
 				"Validator"		"0"
 				"Misc"		"0"
 				"Checker"		"0"
-				"Stage"		"0"
+				"Stage"		"2"
+			}
+		}
+	}
+	"bonus_stage3"
+	{
+		"type"		"Box"
+		"color"		"255 20 147 255"
+		"display"		"Full"
+		"teleport"		"0.000000 0.000000 0.000000"
+		"start"		"5241.405762 10175.968750 -779.410156"
+		"end"		"4928.277344 10559.539062 -378.968750"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"AntiJump"		"0"
+				"Tier"		"0"
+				"start"		"0"
+				"end"		"0"
+				"Stop"		"0"
+				"TeleToStart"		"0"
+				"bonus"		"1"
+				"Checkpoint"		"0"
+				"Validator"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"3"
 			}
 		}
 	}
