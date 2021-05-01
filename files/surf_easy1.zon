@@ -443,7 +443,7 @@
 				"bonus"		"1"
 				"Checkpoint"		"0"
 				"Validator"		"0"
-				"Misc"		"0"
+				"Misc"		"1"
 				"Checker"		"0"
 				"Stage"		"3"
 			}
