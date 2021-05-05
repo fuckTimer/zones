@@ -10,6 +10,14 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
+      - name: Generate hash files
+        run: |
+          for file in *.zon
+          do
+            echo -e "\Generate hash for $file..."
+            sha256sum $file | cut -d " " -f 1 > $file.hash
+          done
+
       - name: Upload files
         uses: earendildev/backblaze-b2-action@master
         env:
