@@ -14,7 +14,7 @@ jobs:
         run: |
           for file in *.zon
           do
-            echo -e "\Generate hash for $file..."
+            echo -e "Generate hash for $file..."
             sha256sum $file | cut -d " " -f 1 > $file.hash
           done
         working-directory: ./files
