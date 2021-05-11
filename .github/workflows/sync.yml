@@ -20,7 +20,7 @@ jobs:
               echo -e "Generate hash for $file..."
               sha1sum $file | cut -d " " -f 1 > $file.hash
               mv $file ..
-              mv $file.hash..
+              mv $file.hash ..
             done
             cd ..
           done
