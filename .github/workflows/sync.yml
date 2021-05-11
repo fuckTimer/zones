@@ -12,10 +12,17 @@ jobs:
 
       - name: Generate hash files
         run: |
-          for file in *.zon
+          for tier in {1..6}
           do
-            echo -e "Generate hash for $file..."
-            sha1sum $file | cut -d " " -f 1 > $file.hash
+            cd "Tier $tier"
+            for file in *.zon
+            do
+              echo -e "Generate hash for $file..."
+              sha1sum $file | cut -d " " -f 1 > $file.hash
+              mv $file ..
+              mv $file.hash..
+            done
+            cd ..
           done
         working-directory: ./files
 
