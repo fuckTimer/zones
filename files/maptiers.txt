@@ -149,7 +149,7 @@ surf_sanctuary
 surf_sandtrap2
 surf_scorch_go
 surf_skipalot
-surf_skyborn mt
+surf_skyborn
 surf_spacejam
 surf_squirrelsonvacation
 surf_summer
