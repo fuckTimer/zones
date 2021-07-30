@@ -14,7 +14,7 @@ jobs:
         run: |
           for tier in {1..6}
           do
-            cd "Tier $tier"
+            cd "Tier$tier"
             for file in *.zon
             do
               echo -e "Generate hash for $file..."
