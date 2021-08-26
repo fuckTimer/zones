@@ -9,6 +9,7 @@
 		"end"		"3985.530029 -12433.000000 -7921.089844"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus1_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,6 +38,7 @@
 		"end"		"3985.100098 -14127.000000 -2346.479980"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus1_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -65,6 +67,7 @@
 		"end"		"11934.200195 -7379.759766 -5838.970215"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus2_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -93,6 +96,7 @@
 		"end"		"10849.500000 6415.220215 -5055.970215"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus2_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -117,10 +121,11 @@
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"8458.570313 -11586.200195 4648.029785"
+		"start"		"8458.570312 -11586.200195 4648.029785"
 		"end"		"9991.120117 -13071.000000 5936.709961"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus3_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -149,6 +154,7 @@
 		"end"		"10247.000000 494.968994 6677.580078"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus3_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -177,6 +183,7 @@
 		"end"		"13375.000000 -3233.489990 -11984.900391"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -205,12 +212,14 @@
 		"end"		"10527.000000 12814.500000 15697.900391"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"5"
+				"maxvelocity"		"3500"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"
@@ -234,6 +243,7 @@
 		"end"		"-7345.029785 12302.299805 8352.160156"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage2"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -262,6 +272,7 @@
 		"end"		"-3729.030029 -11761.000000 -11592.799805"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage3"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -290,6 +301,7 @@
 		"end"		"-2225.030029 5935.379883 -1769.430054"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage4"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -318,6 +330,7 @@
 		"end"		"13375.000000 -3825.300049 -9155.410156"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage5"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{

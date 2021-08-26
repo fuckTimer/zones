@@ -9,6 +9,7 @@
 		"end"		"-1422.229980 2031.969971 3687.260010"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint2"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,6 +38,7 @@
 		"end"		"-11728.000000 1040.739990 -1494.449951"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint3"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -65,6 +67,7 @@
 		"end"		"-3844.709961 16.031200 -8855.839844"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint4"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -93,6 +96,7 @@
 		"end"		"-79.968803 8337.700195 -11609.500000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint5"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -121,6 +125,7 @@
 		"end"		"7357.419922 -9711.969727 11814.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint6"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -149,6 +154,7 @@
 		"end"		"-13243.200195 -7920.029785 7718.169922"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint7"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -177,6 +183,7 @@
 		"end"		"8817.969727 -10222.900391 -1623.869995"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -205,12 +212,14 @@
 		"end"		"-3663.010010 1041.099976 9968.030273"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"2"
+				"maxvelocity"		"3500"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"

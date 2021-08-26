@@ -9,6 +9,7 @@
 		"end"		"11137.000000 5057.000000 -10847.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"Stage7EndZone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,12 +38,14 @@
 		"end"		"-3646.969971 -7425.529785 11312.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"6"
+				"maxvelocity"		"4000"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"
@@ -66,6 +69,7 @@
 		"end"		"4673.000000 -7423.000000 12289.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"Stage2StartZone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -94,6 +98,7 @@
 		"end"		"-10175.000000 -3199.000000 11265.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"Stage3StartZone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -122,6 +127,7 @@
 		"end"		"11777.000000 9729.000000 13313.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"Stage4StartZone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -150,6 +156,7 @@
 		"end"		"-10687.000000 -10495.000000 -1183.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"Stage5StartZone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -178,6 +185,7 @@
 		"end"		"-959.000000 -7423.000000 1377.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"Stage6StartZone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -206,6 +214,7 @@
 		"end"		"10302.400391 -11201.000000 -1231.969971"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage7"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{

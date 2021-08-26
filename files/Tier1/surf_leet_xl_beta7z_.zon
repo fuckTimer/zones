@@ -9,6 +9,7 @@
 		"end"		"-1791.969971 -7326.700195 4617.390137"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint2"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,6 +38,7 @@
 		"end"		"-10156.900391 -2147.330078 -11761.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -65,12 +67,14 @@
 		"end"		"-5633.089844 -11104.000000 15079.900391"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"1"
+				"maxvelocity"		"3500"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"
@@ -94,6 +98,7 @@
 		"end"		"-13884.599609 -9632.030273 9946.730469"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"teletostart2"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -122,6 +127,7 @@
 		"end"		"-13830.799805 -15264.000000 8250.080078"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"teletostart3"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -150,6 +156,7 @@
 		"end"		"-4124.520020 -15264.000000 5174.279785"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"teletostart4"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -178,6 +185,7 @@
 		"end"		"-416.031006 -15224.200195 4644.839844"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"teletostart5"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -206,6 +214,7 @@
 		"end"		"-5375.970215 6407.819824 -4697.910156"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"teletostart6"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -234,6 +243,7 @@
 		"end"		"-10783.000000 13306.200195 -8162.899902"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"teletostart7"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -262,6 +272,7 @@
 		"end"		"-7601.790039 -5763.970215 -12133.799805"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"teletostart8"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{

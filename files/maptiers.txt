@@ -8,8 +8,8 @@ surf_aser
 surf_astray
 surf_autism
 surf_aweles
-surf_beginner_lin
 surf_beginner
+surf_beginner_lin
 surf_beyond
 surf_blackandgold
 surf_borderlands
@@ -19,7 +19,6 @@ surf_calzone
 surf_casbah
 surf_colum_2
 surf_colum_up
-surf_crzyfrog_reloaded_refix
 surf_deathstar
 surf_derpis_ksf
 surf_easy1
@@ -82,8 +81,8 @@ surf_atlas
 surf_beginner2
 surf_believe_refix
 surf_boring
-surf_classics2
 surf_classics
+surf_classics2
 surf_concreteideas
 surf_crackdesert_evo2
 surf_cyberwave
@@ -100,8 +99,8 @@ surf_funhouse2
 surf_furios
 surf_glass7
 surf_glass9
-surf_gleam2
 surf_gleam
+surf_gleam2
 surf_globalchaos
 surf_gradient
 surf_grassland
@@ -124,9 +123,9 @@ surf_krow10
 surf_lore_e
 surf_luminaris
 surf_mate
+surf_me
 surf_mellow
 surf_mesa_mine
-surf_me
 surf_minecraft_2020_fix
 surf_minesport
 surf_nebula
@@ -204,8 +203,8 @@ surf_diverge
 surf_doodles_njv
 surf_dusk
 surf_ecosystem
-surf_epicube_ksf
 surf_epic
+surf_epicube_ksf
 surf_epithet
 surf_eunoia
 surf_execute
@@ -238,13 +237,13 @@ surf_kawaii
 surf_kitsune2_go
 surf_kz_protraining
 surf_leesriize
-surf_liberation2
 surf_liberation
+surf_liberation2
 surf_lies_ksf
 surf_like_this
 surf_lithium
-surf_lost2
 surf_lost
+surf_lost2
 surf_low_production
 surf_mash-up
 surf_meme
@@ -316,8 +315,8 @@ surf_auroria_2
 surf_awakening
 surf_axiom_fix
 surf_beginner_hell_ksf
-surf_beyer2_fix
 surf_beyer
+surf_beyer2_fix
 surf_be_gentle
 surf_blackside_njv
 surf_bluewinter_final
@@ -363,7 +362,7 @@ surf_lab
 surf_lax
 surf_lepidus
 surf_life_of_cow
-surf_lithium
+surf_lithium2
 surf_loweffort
 surf_memories
 surf_mephobia_final
@@ -382,9 +381,9 @@ surf_sluice_final
 surf_stonework
 surf_sunday
 surf_theme
+surf_whoknows
 surf_whoknows2
 surf_whoknows3
-surf_whoknows
 
 # Tier 5
 surf_25_lighters
@@ -406,10 +405,10 @@ surf_dionysus
 surf_dova
 surf_drift_go
 surf_edge
+surf_elysium
 surf_elysium2
 surf_elysium3
 surf_elysium4
-surf_elysium
 surf_entropy_hardmode
 surf_eon
 surf_eryr2
@@ -451,8 +450,8 @@ surf_disaster
 surf_epiphany
 surf_feudal
 surf_goliath
-surf_hades2
 surf_hades
+surf_hades2
 surf_jumble
 surf_lt_omnific_fix
 surf_marah

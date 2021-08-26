@@ -9,6 +9,7 @@
 		"end"		"-2100.439941 -7934.160156 -12608.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,12 +38,14 @@
 		"end"		"-13121.099609 -12926.900391 -2431.969971"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"3"
+				"maxvelocity"		"3500"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"
@@ -63,9 +66,10 @@
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
 		"start"		"-7552.660156 14591.000000 4602.029785"
-		"end"		"-8318.820313 12545.200195 4352.029785"
+		"end"		"-8318.820312 12545.200195 4352.029785"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage2"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -94,6 +98,7 @@
 		"end"		"13761.000000 -2078.989990 -5599.200195"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage3"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{

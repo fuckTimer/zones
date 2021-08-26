@@ -9,6 +9,7 @@
 		"end"		"3201.000000 5377.000000 8257.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint_1"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,6 +38,7 @@
 		"end"		"-8831.000000 5121.000000 3969.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint_2"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -65,6 +67,7 @@
 		"end"		"11265.000000 5121.000000 1025.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint_3"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -93,6 +96,7 @@
 		"end"		"-1023.000000 4352.000000 -3071.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"map_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -121,12 +125,14 @@
 		"end"		"-9215.000000 4097.000000 11201.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"map_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"2"
+				"maxvelocity"		"3500"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"

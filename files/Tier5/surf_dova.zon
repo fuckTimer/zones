@@ -9,6 +9,7 @@
 		"end"		"-2435.000000 11648.000000 2976.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"b1_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,6 +38,7 @@
 		"end"		"-1764.000000 12378.000000 7604.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"b1_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -65,6 +67,7 @@
 		"end"		"11357.099609 -11624.099609 7222.029785"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus2_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -93,6 +96,7 @@
 		"end"		"12091.099609 -11973.900391 8642.030273"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus2_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -121,6 +125,7 @@
 		"end"		"6074.020020 -4751.180176 2011.030029"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint2"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -149,6 +154,7 @@
 		"end"		"-6855.029785 -4192.240234 -2084.939941"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint3"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -177,6 +183,7 @@
 		"end"		"6222.970215 -5677.520020 -1673.709961"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint4"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -205,6 +212,7 @@
 		"end"		"97.968803 6554.290039 -5043.419922"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint5"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -233,6 +241,7 @@
 		"end"		"-2410.000000 14193.000000 -2368.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"map_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -261,12 +270,14 @@
 		"end"		"10415.099609 -4078.020020 5670.029785"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"map_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"5"
+				"maxvelocity"		"3500"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"

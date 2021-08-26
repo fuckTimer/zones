@@ -5,10 +5,11 @@
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"3072.820068 14560.599609 -575.763000"
-		"end"		"5053.229980 15871.099609 -0.031250"
+		"start"		"-1024.910034 14560.000000 -575.210022"
+		"end"		"-3007.969971 15871.700195 -0.063289"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus1_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,6 +38,7 @@
 		"end"		"1599.109985 7296.720215 3839.969971"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus1_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -65,6 +67,7 @@
 		"end"		"513.000000 10049.000000 -4799.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint_1"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -93,6 +96,7 @@
 		"end"		"-5106.439941 -4599.930176 13342.400391"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint_2"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -121,6 +125,7 @@
 		"end"		"507.365997 11654.099609 14336.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint_3"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -149,6 +154,7 @@
 		"end"		"-10111.000000 -11743.000000 10497.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint_4"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -177,6 +183,7 @@
 		"end"		"-11199.000000 -12895.000000 7425.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint_5"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -205,6 +212,7 @@
 		"end"		"-12479.000000 15873.000000 9729.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"end_zone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -233,12 +241,14 @@
 		"end"		"511.390015 1023.969971 254.876007"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"4"
+				"maxvelocity"		"5000"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"

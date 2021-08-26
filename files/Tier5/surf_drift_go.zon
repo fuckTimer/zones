@@ -9,6 +9,7 @@
 		"end"		"16257.000000 5249.000000 -6591.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"END"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,12 +38,14 @@
 		"end"		"321.031006 3137.010010 15419.299805"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"5"
+				"maxvelocity"		"5000"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"
@@ -66,6 +69,7 @@
 		"end"		"2625.000000 -11007.099609 9920.030273"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"S2"
+		"prespeed"		"0"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -94,6 +98,7 @@
 		"end"		"7201.000000 -4639.000000 -1471.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"S3"
+		"prespeed"		"0"
 		"radius"		"10.000000"
 		"effects"
 		{

@@ -9,6 +9,7 @@
 		"end"		"8785.000000 8737.000000 7433.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,6 +38,7 @@
 		"end"		"8705.000000 11249.000000 14009.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus_zone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -65,6 +67,7 @@
 		"end"		"2033.000000 5473.000000 -9231.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"map_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -93,12 +96,14 @@
 		"end"		"1025.000000 2617.000000 8545.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage1_zone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"2"
+				"maxvelocity"		"3800"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"
@@ -122,6 +127,7 @@
 		"end"		"1169.000000 -7559.000000 3281.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage2_zone"
+		"prespeed"		"0"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -150,6 +156,7 @@
 		"end"		"1137.000000 7169.000000 1721.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage3_zone"
+		"prespeed"		"0"
 		"radius"		"10.000000"
 		"effects"
 		{

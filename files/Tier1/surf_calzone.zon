@@ -5,10 +5,11 @@
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"12159.000000 12319.000000 -4081.000000"
-		"end"		"12673.000000 13857.000000 -3631.000000"
+		"start"		"12159.000000 4639.000000 -4081.000000"
+		"end"		"12673.000000 6177.000000 -3631.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"bonus1_end"
+		"origin_name"		"sm_ckZoneHooked 5"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,6 +38,7 @@
 		"end"		"1601.000000 10529.000000 -2351.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus1_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -65,6 +67,7 @@
 		"end"		"-4927.000000 -8383.000000 -14879.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"map_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -93,12 +96,14 @@
 		"end"		"-12415.000000 7537.000000 -9329.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zippan_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"1"
+				"maxvelocity"		"4000"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"
@@ -122,6 +127,7 @@
 		"end"		"-8863.000000 -1439.000000 10145.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage2_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -150,6 +156,7 @@
 		"end"		"3457.000000 9985.000000 15489.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage3_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -178,6 +185,7 @@
 		"end"		"4481.000000 -8415.000000 801.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage4_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{

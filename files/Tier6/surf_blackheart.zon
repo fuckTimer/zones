@@ -9,6 +9,7 @@
 		"end"		"9386.000000 5041.000000 5985.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"b1endzone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,6 +38,7 @@
 		"end"		"7489.000000 5073.000000 10177.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"b1startzone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -65,6 +67,7 @@
 		"end"		"11584.000000 6976.000000 2273.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"b2endzone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -93,6 +96,7 @@
 		"end"		"10883.000000 6305.000000 5633.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"b2startzone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -121,6 +125,7 @@
 		"end"		"4497.000000 4065.000000 11649.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"b3endzone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -149,6 +154,7 @@
 		"end"		"6113.000000 3841.000000 15329.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"b3startzone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -177,6 +183,7 @@
 		"end"		"-2623.000000 481.000000 14977.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"mapcheckpoint1"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -205,6 +212,7 @@
 		"end"		"513.000000 2049.000000 -13311.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"mapendzone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -233,12 +241,14 @@
 		"end"		"1025.000000 641.000000 15489.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"mapstartzone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"6"
+				"maxvelocity"		"3500"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"

@@ -9,6 +9,7 @@
 		"end"		"6656.029785 -1307.739990 11461.400391"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint2"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -34,9 +35,10 @@
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
 		"start"		"-8959.339844 -2272.370117 7456.029785"
-		"end"		"-8928.820313 -5918.819824 9183.969727"
+		"end"		"-8928.820312 -5918.819824 9183.969727"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint3"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -65,6 +67,7 @@
 		"end"		"-6051.629883 -2272.030029 -2495.129883"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint4"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -93,6 +96,7 @@
 		"end"		"8758.370117 -8704.030273 -14494.599609"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint5"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -121,6 +125,7 @@
 		"end"		"12174.700195 12800.000000 8447.049805"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint6"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -149,6 +154,7 @@
 		"end"		"7005.169922 2112.030029 6908.299805"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint7"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -177,6 +183,7 @@
 		"end"		"12225.599609 4860.459961 -6176.029785"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint8"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -205,6 +212,7 @@
 		"end"		"-16320.000000 5887.580078 -13322.700195"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -233,12 +241,14 @@
 		"end"		"-15840.000000 -14462.599609 16048.700195"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"2"
+				"maxvelocity"		"10000"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"

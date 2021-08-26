@@ -9,6 +9,7 @@
 		"end"		"-1287.000000 6401.000000 5529.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"makoend"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -37,6 +38,7 @@
 		"end"		"-1303.000000 6521.009766 14193.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"makostart"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -65,6 +67,7 @@
 		"end"		"4265.000000 -5143.000000 12305.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"joeyend"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -93,6 +96,7 @@
 		"end"		"15521.000000 6113.000000 15361.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"joeystart"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -121,6 +125,7 @@
 		"end"		"13485.000000 15163.000000 11137.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"mazbonusend"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -149,6 +154,7 @@
 		"end"		"13481.000000 9649.000000 15041.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"mazstartzone"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -177,6 +183,7 @@
 		"end"		"-7499.910156 -1904.030029 10649.299805"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint2"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -205,6 +212,7 @@
 		"end"		"-6912.029785 7009.100098 8382.790039"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint3"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -233,6 +241,7 @@
 		"end"		"1094.310059 8913.780273 8032.029785"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"checkpoint4"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -261,6 +270,7 @@
 		"end"		"13823.599609 8875.139648 6295.029785"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_end"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -289,12 +299,14 @@
 		"end"		"-13295.099609 -499.053009 13288.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_start"
+		"prespeed"		"350"
 		"radius"		"10.000000"
 		"effects"
 		{
 			"fuckTimer"
 			{
 				"tier"		"4"
+				"maxvelocity"		"3500"
 				"start"		"1"
 				"end"		"0"
 				"Validator"		"0"
