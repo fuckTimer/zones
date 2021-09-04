@@ -13,6 +13,7 @@ surf_beginner_lin
 surf_beyond
 surf_blackandgold
 surf_borderlands
+surf_bonkers_v2
 surf_calycate2
 surf_calycate_ksf
 surf_calzone
