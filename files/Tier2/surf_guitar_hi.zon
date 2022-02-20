@@ -1,12 +1,42 @@
 "zones"
 {
-	"bonus1_end"
+	"bonus1_end1"
 	{
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
 		"start"		"-864.883972 13526.099609 6504.029785"
 		"end"		"-1278.969971 12936.900391 6916.049805"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"bonus1_end"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"1"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"1"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"bonus1_end2"
+	{
+		"type"		"Box"
+		"color"		"255 20 147 255"
+		"display"		"Bottom"
+		"teleport"		"0.000000 0.000000 0.000000"
+		"start"		"864.986572 13527.829102 6505.031250"
+		"end"		"1279.710205 12936.289062 6918.031250"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"bonus1_end"
 		"radius"		"10.000000"
