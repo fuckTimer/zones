@@ -14,8 +14,8 @@
 		{
 			"fuckTimer"
 			{
-				"start"		"1"
-				"end"		"0"
+				"start"		"0"
+				"end"		"1"
 				"prespeed"		"0"
 				"TeleToStart"		"0"
 				"Validator"		"0"
@@ -46,15 +46,15 @@
 			{
 				"tier"		"3"
 				"maxvelocity"		"0"
-				"start"		"0"
+				"start"		"1"
 				"end"		"0"
 				"prespeed"		"0"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"0"
 				"Checkpoint"		"0"
-				"Stop"		"1"
-				"Misc"		"1"
+				"Stop"		"0"
+				"Misc"		"0"
 				"Checker"		"0"
 				"Stage"		"0"
 				"Speed"		"0"
@@ -84,9 +84,9 @@
 				"Checkpoint"		"0"
 				"maxvelocity"		"0"
 				"Stop"		"0"
-				"Misc"		"1"
+				"Misc"		"0"
 				"Checker"		"0"
-				"Stage"		"0"
+				"Stage"		"2"
 				"Speed"		"0"
 			}
 		}
@@ -114,9 +114,9 @@
 				"Checkpoint"		"0"
 				"maxvelocity"		"0"
 				"Stop"		"0"
-				"Misc"		"1"
+				"Misc"		"0"
 				"Checker"		"0"
-				"Stage"		"0"
+				"Stage"		"3"
 				"Speed"		"0"
 			}
 		}
@@ -144,9 +144,9 @@
 				"Checkpoint"		"0"
 				"maxvelocity"		"0"
 				"Stop"		"0"
-				"Misc"		"1"
+				"Misc"		"0"
 				"Checker"		"0"
-				"Stage"		"0"
+				"Stage"		"4"
 				"Speed"		"0"
 			}
 		}
@@ -174,9 +174,9 @@
 				"Checkpoint"		"0"
 				"maxvelocity"		"0"
 				"Stop"		"0"
-				"Misc"		"1"
+				"Misc"		"0"
 				"Checker"		"0"
-				"Stage"		"0"
+				"Stage"		"5"
 				"Speed"		"0"
 			}
 		}
