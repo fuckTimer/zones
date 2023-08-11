@@ -63,8 +63,8 @@
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"-2033.000000 3695.000000 -10617.000000"
-		"end"		"2033.000000 5473.000000 -9231.000000"
+		"start"		"-2031.189941 3696.800049 -10616.000000"
+		"end"		"2031.969971 4587.839844 -9265.169922"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"map_end"
 		"radius"		"10.000000"
@@ -102,7 +102,7 @@
 			"fuckTimer"
 			{
 				"tier"		"2"
-				"maxvelocity"		"3800"
+				"maxvelocity"		"10000"
 				"start"		"1"
 				"end"		"0"
 				"prespeed"		"350"
@@ -172,6 +172,35 @@
 				"Misc"		"0"
 				"Checker"		"0"
 				"Stage"		"3"
+				"Speed"		"0"
+			}
+		}
+	}
+	"teletostart2"
+	{
+		"type"		"Box"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"-22.491199 2382.840088 8293.030273"
+		"end"		"23.731899 2337.080078 8288.030273"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"teletostart2"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"1"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"1"
+				"Checker"		"0"
+				"Stage"		"0"
 				"Speed"		"0"
 			}
 		}
