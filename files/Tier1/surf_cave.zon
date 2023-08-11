@@ -1,0 +1,382 @@
+"zones"
+{
+	"bonus1_end"
+	{
+		"type"		"Box"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"5276.319824 7730.270020 11912.000000"
+		"end"		"4736.029785 8749.099609 12318.099609"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"bonus1_end"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"1"
+				"prespeed"		"250"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"1"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"bonus1_start"
+	{
+		"type"		"Box"
+		"color"		"0 255 255 255"
+		"display"		"Bottom"
+		"start"		"7645.910156 7745.879883 14312.000000"
+		"end"		"6621.990234 8768.429688 14856.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"bonus1_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"1"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"1"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"bonus2_end"
+	{
+		"type"		"Box"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"4542.359863 -10038.000000 9248.030273"
+		"end"		"3520.030029 -9018.889648 9631.400391"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"bonus2_end"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"1"
+				"prespeed"		"250"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"2"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"bonus2_start"
+	{
+		"type"		"Box"
+		"color"		"0 255 255 255"
+		"display"		"Bottom"
+		"start"		"4543.209961 -10058.299805 13088.000000"
+		"end"		"3520.030029 -9038.089844 13368.900391"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"bonus2_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"1"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"2"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"bonus3_end"
+	{
+		"type"		"Box"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"-13284.700195 -6284.680176 9601.820312"
+		"end"		"-14197.099609 -4497.959961 10277.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"bonus3_end"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"1"
+				"prespeed"		"250"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"3"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"bonus3_start"
+	{
+		"type"		"Box"
+		"color"		"0 255 255 255"
+		"display"		"Bottom"
+		"start"		"-9054.799805 -4454.959961 9984.139648"
+		"end"		"-8283.169922 -6147.609863 10323.500000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"bonus3_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"1"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"3"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"bonus4_end"
+	{
+		"type"		"Box"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"-2824.169922 -3288.360107 -543.968994"
+		"end"		"-3894.770020 -4423.490234 -96.031197"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"bonus4_end"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"1"
+				"prespeed"		"250"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"4"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"bonus4_start"
+	{
+		"type"		"Box"
+		"color"		"0 255 255 255"
+		"display"		"Bottom"
+		"start"		"-2816.699951 2778.439941 -551.517029"
+		"end"		"-4604.029785 3919.489990 -87.266502"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"bonus4_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"1"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"4"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"checkpoint2"
+	{
+		"type"		"Box"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"4703.970215 361.186005 7337.410156"
+		"end"		"4800.029785 -1490.140015 6323.870117"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"checkpoint2"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"0"
+				"prespeed"		"250"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"2"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"checkpoint3"
+	{
+		"type"		"Box"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"488.666992 2284.429932 2047.969971"
+		"end"		"320.031006 -4503.160156 -1423.530029"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"checkpoint3"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"0"
+				"prespeed"		"250"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"3"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"checkpoint4"
+	{
+		"type"		"Box"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"11516.799805 1705.589966 -1728.030029"
+		"end"		"11700.200195 -2212.669922 -2879.969971"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"checkpoint4"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"0"
+				"prespeed"		"250"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"4"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"main0_end"
+	{
+		"type"		"Box"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"-12516.500000 -2559.969971 -2143.979980"
+		"end"		"-14279.000000 2008.119995 -996.031006"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"main0_end"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"1"
+				"prespeed"		"250"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"main0_start"
+	{
+		"type"		"Box"
+		"color"		"0 255 255 255"
+		"display"		"Bottom"
+		"start"		"4968.680176 510.821991 13824.000000"
+		"end"		"6529.290039 -1023.969971 14212.599609"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"main0_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"tier"		"1"
+				"maxvelocity"		"5000"
+				"start"		"1"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+}

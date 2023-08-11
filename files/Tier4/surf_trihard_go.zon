@@ -1,0 +1,324 @@
+"zones"
+{
+	"bonus1_end"
+	{
+		"type"		"Trigger"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"zone_bonus1_end"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"1"
+				"prespeed"		"260"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"1"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"bonus1_start"
+	{
+		"type"		"Trigger"
+		"color"		"0 255 255 255"
+		"display"		"Bottom"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"zone_bonus1_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"1"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"1"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"bonus2_end"
+	{
+		"type"		"Trigger"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"zone_bonus2_end"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"1"
+				"prespeed"		"260"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"2"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"bonus2_start"
+	{
+		"type"		"Trigger"
+		"color"		"0 255 255 255"
+		"display"		"Bottom"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"zone_bonus2_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"1"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"2"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"main0_end"
+	{
+		"type"		"Trigger"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"zone_map_end"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"1"
+				"prespeed"		"260"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"main0_start"
+	{
+		"type"		"Trigger"
+		"color"		"0 255 255 255"
+		"display"		"Bottom"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"zone_s1_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"tier"		"4"
+				"maxvelocity"		"5000"
+				"start"		"1"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
+	"stage2"
+	{
+		"type"		"Trigger"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"zone_s2_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"2"
+				"Speed"		"0"
+			}
+		}
+	}
+	"stage3"
+	{
+		"type"		"Trigger"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"zone_s3_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"3"
+				"Speed"		"0"
+			}
+		}
+	}
+	"stage4"
+	{
+		"type"		"Trigger"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"zone_s4_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"4"
+				"Speed"		"0"
+			}
+		}
+	}
+	"stage5"
+	{
+		"type"		"Trigger"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"zone_s5_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"5"
+				"Speed"		"0"
+			}
+		}
+	}
+	"stage6"
+	{
+		"type"		"Trigger"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"zone_s6_start"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"0"
+				"prespeed"		"350"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"0"
+				"Checker"		"0"
+				"Stage"		"6"
+				"Speed"		"0"
+			}
+		}
+	}
+}

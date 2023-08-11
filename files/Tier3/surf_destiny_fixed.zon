@@ -5,8 +5,8 @@
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"2768.939941 9078.969727 -1458.979980"
-		"end"		"2911.080078 8481.639648 -1638.969971"
+		"start"		"1956.290039 8480.110352 -1629.969971"
+		"end"		"3710.870117 9079.969727 -1041.800049"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_end"
 		"radius"		"10.000000"
@@ -16,7 +16,7 @@
 			{
 				"start"		"0"
 				"end"		"1"
-				"prespeed"		"350"
+				"prespeed"		"260"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"0"
@@ -34,8 +34,8 @@
 		"type"		"Box"
 		"color"		"0 255 255 255"
 		"display"		"Bottom"
-		"start"		"1734.969971 -382.506012 9.031250"
-		"end"		"57.031200 382.838013 258.031006"
+		"start"		"56.114799 -383.890015 8.031250"
+		"end"		"1727.969971 -190.606995 124.039001"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_start"
 		"radius"		"10.000000"
@@ -60,13 +60,42 @@
 			}
 		}
 	}
+	"maxspeed2"
+	{
+		"type"		"Box"
+		"color"		"255 0 255 255"
+		"display"		"Bottom"
+		"start"		"719.968994 2489.790039 -8716.450195"
+		"end"		"103.575996 2466.189941 -9079.969727"
+		"origin"		"0.000000 0.000000 0.000000"
+		"origin_name"		"maxspeed2"
+		"radius"		"10.000000"
+		"effects"
+		{
+			"fuckTimer"
+			{
+				"start"		"0"
+				"end"		"0"
+				"prespeed"		"250"
+				"TeleToStart"		"0"
+				"Validator"		"0"
+				"bonus"		"0"
+				"Checkpoint"		"0"
+				"Stop"		"0"
+				"Misc"		"1"
+				"Checker"		"0"
+				"Stage"		"0"
+				"Speed"		"0"
+			}
+		}
+	}
 	"stage2"
 	{
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"3726.770020 -6311.500000 -1838.969971"
-		"end"		"1953.030029 -5761.399902 -1662.709961"
+		"start"		"3727.729980 -5760.240234 -1839.969971"
+		"end"		"1952.130005 -6311.970215 -1715.900024"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"stage2"
 		"radius"		"10.000000"
@@ -76,7 +105,7 @@
 			{
 				"start"		"0"
 				"end"		"0"
-				"prespeed"		"0"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"0"
@@ -85,35 +114,6 @@
 				"Misc"		"0"
 				"Checker"		"0"
 				"Stage"		"2"
-				"Speed"		"0"
-			}
-		}
-	}
-	"teletostart2"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"733.489014 2432.030029 -9092.629883"
-		"end"		"8.031250 2521.500000 -8702.379883"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"teletostart2"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"1"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"1"
-				"Checker"		"0"
-				"Stage"		"0"
 				"Speed"		"0"
 			}
 		}

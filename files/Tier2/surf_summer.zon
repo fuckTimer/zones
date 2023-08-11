@@ -1,70 +1,12 @@
 "zones"
 {
-	"bonus1_end"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"5631.649902 -12992.299805 7484.029785"
-		"end"		"4865.140137 -13502.799805 7184.029785"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"bonus1_end"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"1"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"1"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus1_start"
-	{
-		"type"		"Box"
-		"color"		"0 255 255 255"
-		"display"		"Bottom"
-		"start"		"5088.220215 1759.770020 11352.000000"
-		"end"		"5405.990234 1441.430054 11152.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"bonus1_start"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"1"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"1"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
 	"main0_end"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"13985.700195 -15456.000000 5154.439941"
+		"end"		"14685.500000 -16160.000000 5311.540039"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zone_map_end"
 		"radius"		"10.000000"
@@ -74,7 +16,7 @@
 			{
 				"start"		"0"
 				"end"		"1"
-				"prespeed"		"350"
+				"prespeed"		"260"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"0"
@@ -89,11 +31,11 @@
 	}
 	"main0_start"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"0 255 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-12608.299805 -5344.029785 12063.900391"
+		"end"		"-13709.400391 -5000.029785 12316.799805"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zone_s1_start"
 		"radius"		"10.000000"
@@ -102,7 +44,7 @@
 			"fuckTimer"
 			{
 				"tier"		"2"
-				"maxvelocity"		"3500"
+				"maxvelocity"		"5000"
 				"start"		"1"
 				"end"		"0"
 				"prespeed"		"350"
@@ -120,11 +62,11 @@
 	}
 	"stage10"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-12440.900391 3071.649902 8400.030273"
+		"end"		"-11584.000000 2501.209961 8700.799805"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zone_s10_start"
 		"radius"		"10.000000"
@@ -149,11 +91,11 @@
 	}
 	"stage11"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"4512.029785 1216.489990 11264.500000"
+		"end"		"5981.939941 2431.969971 11540.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zone_s11_start"
 		"radius"		"10.000000"
@@ -178,11 +120,11 @@
 	}
 	"stage2"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-11455.799805 -7744.870117 11968.000000"
+		"end"		"-10693.000000 -8124.129883 12118.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zone_s2_start"
 		"radius"		"10.000000"
@@ -207,11 +149,11 @@
 	}
 	"stage3"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-11367.900391 -64.874001 11784.000000"
+		"end"		"-10778.700195 -999.968994 11593.099609"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zone_s3_start"
 		"radius"		"10.000000"
@@ -236,11 +178,11 @@
 	}
 	"stage4"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-5706.700195 5623.549805 10208.000000"
+		"end"		"-6811.779785 7039.970215 10412.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zone_s4_start"
 		"radius"		"10.000000"
@@ -265,11 +207,11 @@
 	}
 	"stage5"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-6176.319824 13311.900391 14328.099609"
+		"end"		"-6751.279785 12800.500000 14628.099609"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zone_s5_start"
 		"radius"		"10.000000"
@@ -294,11 +236,11 @@
 	}
 	"stage6"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-5567.100098 -4927.970215 8255.849609"
+		"end"		"-4544.359863 -5695.970215 8656.780273"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zone_s6_start"
 		"radius"		"10.000000"
@@ -323,11 +265,11 @@
 	}
 	"stage7"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"5824.299805 -7712.479980 -12096.000000"
+		"end"		"6335.430176 -8175.959961 -11796.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zone_s7_start"
 		"radius"		"10.000000"
@@ -352,11 +294,11 @@
 	}
 	"stage8"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-10184.000000 -8352.379883 12160.000000"
+		"end"		"-10487.200195 -9311.450195 12460.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zone_s8_start"
 		"radius"		"10.000000"
@@ -381,11 +323,11 @@
 	}
 	"stage9"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-10858.400391 -15264.799805 -12608.000000"
+		"end"		"-13056.000000 -15858.599609 -12146.099609"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"zone_s9_start"
 		"radius"		"10.000000"
