@@ -1,650 +1,12 @@
 "zones"
 {
-	"bonus10_end"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"10815.000000 -9873.000000 -3753.000000"
-		"end"		"13761.000000 -9211.000000 -3455.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bend_10"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"1"
-				"prespeed"		"260"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"10"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus10_start"
-	{
-		"type"		"Box"
-		"color"		"0 255 255 255"
-		"display"		"Bottom"
-		"start"		"10223.000000 -14817.000000 -385.250000"
-		"end"		"14321.000000 -14271.000000 321.750000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bstart_10"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"1"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"10"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus11_end"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"-3131.000000 9760.000000 5999.000000"
-		"end"		"-2875.000000 10016.000000 6114.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bend_11"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"1"
-				"prespeed"		"260"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"11"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus11_start"
-	{
-		"type"		"Box"
-		"color"		"0 255 255 255"
-		"display"		"Bottom"
-		"start"		"14947.000000 -833.000000 7847.000000"
-		"end"		"15395.000000 -277.000000 8087.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bstart_11"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"1"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"11"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus1_end"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"-7715.319824 1286.060059 14064.000000"
-		"end"		"-11929.700195 3263.969971 14507.700195"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bend_1"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"1"
-				"prespeed"		"260"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"1"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus1_start"
-	{
-		"type"		"Box"
-		"color"		"0 255 255 255"
-		"display"		"Bottom"
-		"start"		"-12641.000000 -1.000000 15631.000000"
-		"end"		"-7007.000000 257.000000 16017.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bstart_1"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"1"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"1"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus2_end"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"287.000000 831.000000 -8753.000000"
-		"end"		"9793.000000 3585.000000 -7551.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bend_2"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"1"
-				"prespeed"		"260"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"2"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus2_start"
-	{
-		"type"		"Box"
-		"color"		"0 255 255 255"
-		"display"		"Bottom"
-		"start"		"4143.000000 -15457.000000 -7793.000000"
-		"end"		"5937.000000 -15199.000000 -7551.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bstart_2"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"1"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"2"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus3_end"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"-9289.000000 14940.000000 -2527.000000"
-		"end"		"-8239.000000 15681.000000 -2023.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bend_3"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"1"
-				"prespeed"		"260"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"3"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus3_start"
-	{
-		"type"		"Box"
-		"color"		"0 255 255 255"
-		"display"		"Bottom"
-		"start"		"-9113.000000 15235.000000 231.000000"
-		"end"		"-8415.000000 15681.000000 921.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bstart_3"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"1"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"3"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus4_end"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"15231.000000 14655.000000 -3044.000000"
-		"end"		"15585.000000 15041.000000 -2575.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bend_4"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"1"
-				"prespeed"		"260"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"4"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus4_start"
-	{
-		"type"		"Box"
-		"color"		"0 255 255 255"
-		"display"		"Bottom"
-		"start"		"10295.000000 14719.000000 -2946.000000"
-		"end"		"10689.000000 15105.000000 -2914.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bstart_4"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"1"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"4"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus5_end"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"-385.500000 13067.000000 -3453.000000"
-		"end"		"25.500000 13689.000000 -2571.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bend_5"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"1"
-				"prespeed"		"260"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"5"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus5_start"
-	{
-		"type"		"Box"
-		"color"		"0 255 255 255"
-		"display"		"Bottom"
-		"start"		"1975.000000 14971.000000 1123.000000"
-		"end"		"2737.000000 15617.000000 1317.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bstart_5"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"1"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"5"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus6_end"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"-2825.270020 15007.000000 -15425.000000"
-		"end"		"-2427.270020 15713.000000 -15263.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bend_6"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"1"
-				"prespeed"		"260"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"6"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus6_start"
-	{
-		"type"		"Box"
-		"color"		"0 255 255 255"
-		"display"		"Bottom"
-		"start"		"-1897.000000 15167.000000 -13281.000000"
-		"end"		"-1607.000000 15553.000000 -13119.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bstart_6"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"1"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"6"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus7_end"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"-8640.500000 15543.000000 3655.000000"
-		"end"		"-7614.500000 15721.000000 3921.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bend_7"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"1"
-				"prespeed"		"260"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"7"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus7_start"
-	{
-		"type"		"Box"
-		"color"		"0 255 255 255"
-		"display"		"Bottom"
-		"start"		"-8641.000000 15551.000000 5535.000000"
-		"end"		"-7614.000000 15729.000000 5729.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bstart_7"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"1"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"7"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus8_end"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"5803.000000 -14049.000000 6887.000000"
-		"end"		"9083.000000 -13027.000000 7397.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bend_8"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"1"
-				"prespeed"		"260"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"8"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus8_start"
-	{
-		"type"		"Box"
-		"color"		"0 255 255 255"
-		"display"		"Bottom"
-		"start"		"6899.000000 6119.000000 12791.000000"
-		"end"		"7925.000000 6481.000000 13033.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bstart_8"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"1"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"8"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus9_end"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"-13153.000000 2799.000000 6703.000000"
-		"end"		"-12895.000000 10353.000000 6913.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bend_9"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"1"
-				"prespeed"		"260"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"9"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
-	"bonus9_start"
-	{
-		"type"		"Box"
-		"color"		"0 255 255 255"
-		"display"		"Bottom"
-		"start"		"-2817.000000 9599.000000 15359.000000"
-		"end"		"-2591.000000 10209.000000 15649.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_bstart_9"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"1"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"9"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"0"
-			}
-		}
-	}
 	"main0_end"
 	{
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"-8466.570312 -10520.000000 -12913.799805"
-		"end"		"-6597.660156 -8944.030273 -13668.299805"
+		"start"		"-1940.479980 10144.000000 -13082.000000"
+		"end"		"-2168.250000 10044.599609 -12980.000000"
 		"origin"		"0.000000 0.000000 0.000000"
 		"origin_name"		"main0_end"
 		"radius"		"10.000000"
@@ -672,10 +34,10 @@
 		"type"		"Box"
 		"color"		"0 255 255 255"
 		"display"		"Bottom"
-		"start"		"-8383.969727 -5496.029785 11450.000000"
-		"end"		"-9408.030273 -5992.029785 11200.000000"
+		"start"		"-6833.029785 -14197.000000 14970.400391"
+		"end"		"-7601.029785 -15349.000000 14890.400391"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_start"
+		"origin_name"		"main0_start"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -700,13 +62,13 @@
 	}
 	"stage10"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"8975.500000 -4024.760010 15174.000000"
+		"end"		"11791.500000 -5540.569824 15872.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_10"
+		"origin_name"		"stage10"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -729,13 +91,13 @@
 	}
 	"stage11"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"10400.000000 -9183.969727 15536.000000"
+		"end"		"9983.969727 -9505.030273 15456.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_11"
+		"origin_name"		"stage11"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -758,13 +120,13 @@
 	}
 	"stage12"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"14624.500000 -13498.299805 15840.000000"
+		"end"		"14815.599609 -13276.000000 15683.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_12"
+		"origin_name"		"stage12"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -787,13 +149,13 @@
 	}
 	"stage13"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"13014.200195 3795.229980 15714.000000"
+		"end"		"12719.700195 3602.770020 15799.099609"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_13"
+		"origin_name"		"stage13"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -816,13 +178,13 @@
 	}
 	"stage14"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-15042.099609 1281.380005 15232.000000"
+		"end"		"-15808.000000 1661.979980 15404.099609"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_14"
+		"origin_name"		"stage14"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -845,13 +207,13 @@
 	}
 	"stage15"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"11874.900391 -8764.559570 15558.500000"
+		"end"		"12071.799805 -9040.759766 15802.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_15"
+		"origin_name"		"stage15"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -874,13 +236,13 @@
 	}
 	"stage16"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-15104.099609 15287.000000 14928.000000"
+		"end"		"-15743.099609 16128.000000 15171.500000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_16"
+		"origin_name"		"stage16"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -903,13 +265,13 @@
 	}
 	"stage17"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-15877.000000 10225.299805 15471.000000"
+		"end"		"-15557.000000 10897.400391 15144.700195"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_17"
+		"origin_name"		"stage17"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -932,13 +294,13 @@
 	}
 	"stage18"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-14958.099609 7714.270020 14404.099609"
+		"end"		"-15218.099609 6944.859863 14324.099609"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_18"
+		"origin_name"		"stage18"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -961,13 +323,13 @@
 	}
 	"stage19"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-3455.969971 2176.030029 15504.000000"
+		"end"		"-3832.030029 1791.969971 15424.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_19"
+		"origin_name"		"stage19"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -993,10 +355,10 @@
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"12439.000000 8810.000000 14007.000000"
-		"end"		"12953.000000 8956.000000 14177.000000"
+		"start"		"-5856.930176 -15159.000000 15501.000000"
+		"end"		"-6215.970215 -15563.599609 15668.299805"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_2"
+		"origin_name"		"stage2"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1019,13 +381,13 @@
 	}
 	"stage20"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"10752.000000 -6975.970215 15632.000000"
+		"end"		"10368.000000 -7360.029785 15552.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_20"
+		"origin_name"		"stage20"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1048,13 +410,13 @@
 	}
 	"stage21"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-186.220993 -14648.000000 -1673.079956"
+		"end"		"-684.106995 -13640.000000 -1794.550049"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_21"
+		"origin_name"		"stage21"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1077,13 +439,13 @@
 	}
 	"stage22"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-6214.689941 5740.479980 2831.959961"
+		"end"		"-7096.470215 5405.479980 2751.959961"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_22"
+		"origin_name"		"stage22"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1106,13 +468,13 @@
 	}
 	"stage23"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-7112.529785 5740.479980 2831.959961"
+		"end"		"-8022.620117 5405.479980 2751.959961"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_23"
+		"origin_name"		"stage23"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1135,13 +497,13 @@
 	}
 	"stage24"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"6189.029785 6879.160156 15784.099609"
+		"end"		"5873.029785 7150.620117 15903.200195"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_24"
+		"origin_name"		"stage24"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1164,13 +526,13 @@
 	}
 	"stage25"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"11494.000000 -3107.909912 460.833008"
+		"end"		"11137.900391 -2472.320068 646.968994"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_25"
+		"origin_name"		"stage25"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1193,13 +555,13 @@
 	}
 	"stage26"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"143.498993 -13116.700195 7752.029785"
+		"end"		"-528.047974 -13504.000000 7926.419922"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_26"
+		"origin_name"		"stage26"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1222,13 +584,13 @@
 	}
 	"stage27"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-2112.209961 -7425.490234 8112.029785"
+		"end"		"-2559.969971 -7808.339844 8184.930176"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_27"
+		"origin_name"		"stage27"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1251,13 +613,13 @@
 	}
 	"stage28"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"6655.600098 -5951.520020 4816.029785"
+		"end"		"6016.029785 -5568.490234 4913.799805"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_28"
+		"origin_name"		"stage28"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1280,13 +642,13 @@
 	}
 	"stage29"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"6929.089844 -3329.770020 8264.030273"
+		"end"		"7439.970215 -3711.489990 8431.790039"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_29"
+		"origin_name"		"stage29"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1312,10 +674,10 @@
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"15247.000000 3311.000000 12191.000000"
-		"end"		"15569.000000 3569.000000 12401.000000"
+		"start"		"-1008.309998 -15361.000000 15371.000000"
+		"end"		"-1487.339966 -15840.000000 15577.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_3"
+		"origin_name"		"stage3"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1338,13 +700,13 @@
 	}
 	"stage30"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"8848.030273 -4152.669922 4654.379883"
+		"end"		"8591.969727 -4466.459961 4818.740234"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_30"
+		"origin_name"		"stage30"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1367,13 +729,13 @@
 	}
 	"stage31"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"783.968994 -1214.780029 8190.029785"
+		"end"		"690.768005 -1015.409973 8291.570312"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_31"
+		"origin_name"		"stage31"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1396,13 +758,13 @@
 	}
 	"stage32"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-1807.969971 -9597.919922 2766.800049"
+		"end"		"-400.031006 -8955.530273 3034.510010"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_32"
+		"origin_name"		"stage32"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1425,13 +787,13 @@
 	}
 	"stage33"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"-3263.969971 -5425.540039 162.826004"
+		"end"		"-2272.030029 -5224.029785 -402.492004"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_33"
+		"origin_name"		"stage33"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1439,7 +801,7 @@
 			{
 				"start"		"0"
 				"end"		"0"
-				"prespeed"		"350"
+				"prespeed"		"0"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"0"
@@ -1454,13 +816,13 @@
 	}
 	"stage34"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"4255.970215 224.003006 -5625.970215"
+		"end"		"3550.239990 625.806030 -5722.660156"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_34"
+		"origin_name"		"stage34"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1468,7 +830,7 @@
 			{
 				"start"		"0"
 				"end"		"0"
-				"prespeed"		"350"
+				"prespeed"		"0"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"0"
@@ -1481,160 +843,15 @@
 			}
 		}
 	}
-	"stage35"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_35"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"35"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage36"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_36"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"36"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage37"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_37"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"37"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage38"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_38"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"38"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage39"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_39"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"39"
-				"Speed"		"0"
-			}
-		}
-	}
 	"stage4"
 	{
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"10687.000000 15134.500000 11567.000000"
-		"end"		"11009.000000 15457.500000 11857.000000"
+		"start"		"-4319.970215 -12732.000000 13435.000000"
+		"end"		"-5152.029785 -13308.000000 13355.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_4"
+		"origin_name"		"stage4"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1655,305 +872,15 @@
 			}
 		}
 	}
-	"stage40"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_40"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"40"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage41"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_41"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"41"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage42"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_42"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"42"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage43"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_43"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"43"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage44"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_44"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"44"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage45"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_45"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"45"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage46"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_46"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"46"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage47"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_47"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"47"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage48"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_48"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"48"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage49"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_49"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"49"
-				"Speed"		"0"
-			}
-		}
-	}
 	"stage5"
 	{
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"-10689.000000 14895.000000 927.000000"
-		"end"		"-10255.000000 15665.000000 1297.000000"
+		"start"		"1431.969971 -14783.700195 15528.599609"
+		"end"		"1036.880005 -15137.000000 15677.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_5"
+		"origin_name"		"stage5"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -1974,305 +901,15 @@
 			}
 		}
 	}
-	"stage50"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_50"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"50"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage51"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_51"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"51"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage52"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_52"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"52"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage53"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_53"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"53"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage54"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_54"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"54"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage55"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_55"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"55"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage56"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_56"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"56"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage57"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_57"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"57"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage58"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_58"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"58"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage59"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_59"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"59"
-				"Speed"		"0"
-			}
-		}
-	}
 	"stage6"
 	{
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"-15593.000000 -3297.000000 -3097.000000"
-		"end"		"-15279.000000 -2863.000000 -2911.000000"
+		"start"		"8944.580078 -7420.029785 14407.500000"
+		"end"		"7835.939941 -6065.060059 14702.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_6"
+		"origin_name"		"stage6"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -2293,305 +930,15 @@
 			}
 		}
 	}
-	"stage60"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_60"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"60"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage61"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_61"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"61"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage62"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_62"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"62"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage63"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_63"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"63"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage64"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_64"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"64"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage65"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_65"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"65"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage66"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_66"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"66"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage67"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_67"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"67"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage68"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_68"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"68"
-				"Speed"		"0"
-			}
-		}
-	}
-	"stage69"
-	{
-		"type"		"Trigger"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_69"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"350"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"0"
-				"Checker"		"0"
-				"Stage"		"69"
-				"Speed"		"0"
-			}
-		}
-	}
 	"stage7"
 	{
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"-12385.000000 -113.000000 -4609.000000"
-		"end"		"-12095.000000 273.000000 -4455.000000"
+		"start"		"1732.060059 -15335.000000 15596.000000"
+		"end"		"2275.090088 -15748.000000 15732.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_7"
+		"origin_name"		"stage7"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -2617,10 +964,10 @@
 		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"-15633.000000 3327.000000 -3305.000000"
-		"end"		"-15327.000000 3777.000000 -2815.000000"
+		"start"		"-14936.400391 -582.562988 15116.000000"
+		"end"		"-15840.000000 54.213902 15509.599609"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_8"
+		"origin_name"		"stage8"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -2643,13 +990,13 @@
 	}
 	"stage9"
 	{
-		"type"		"Trigger"
+		"type"		"Box"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"0.000000 0.000000 0.000000"
-		"end"		"0.000000 0.000000 0.000000"
+		"start"		"461.968994 -10570.099609 13378.799805"
+		"end"		"865.674011 -11086.500000 13606.900391"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"zippan_level_9"
+		"origin_name"		"stage9"
 		"radius"		"10.000000"
 		"effects"
 		{

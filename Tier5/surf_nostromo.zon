@@ -16,7 +16,7 @@
 			{
 				"start"		"0"
 				"end"		"1"
-				"prespeed"		"260"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"1"
@@ -74,7 +74,7 @@
 			{
 				"start"		"0"
 				"end"		"1"
-				"prespeed"		"260"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"2"
@@ -132,7 +132,7 @@
 			{
 				"start"		"0"
 				"end"		"0"
-				"prespeed"		"260"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"0"
@@ -161,7 +161,7 @@
 			{
 				"start"		"0"
 				"end"		"0"
-				"prespeed"		"260"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"0"
@@ -190,7 +190,7 @@
 			{
 				"start"		"0"
 				"end"		"0"
-				"prespeed"		"260"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"0"
@@ -219,7 +219,7 @@
 			{
 				"start"		"0"
 				"end"		"0"
-				"prespeed"		"260"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"0"
@@ -248,7 +248,7 @@
 			{
 				"start"		"0"
 				"end"		"1"
-				"prespeed"		"260"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"0"

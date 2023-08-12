@@ -147,33 +147,4 @@
 			}
 		}
 	}
-	"speed3"
-	{
-		"type"		"Box"
-		"color"		"255 0 255 255"
-		"display"		"Bottom"
-		"start"		"-13287.400391 13885.299805 14096.099609"
-		"end"		"-13200.000000 14128.000000 14198.099609"
-		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"speed3"
-		"radius"		"10.000000"
-		"effects"
-		{
-			"fuckTimer"
-			{
-				"start"		"0"
-				"end"		"0"
-				"prespeed"		"260"
-				"TeleToStart"		"0"
-				"Validator"		"0"
-				"bonus"		"0"
-				"Checkpoint"		"0"
-				"Stop"		"0"
-				"Misc"		"1"
-				"Checker"		"0"
-				"Stage"		"0"
-				"Speed"		"1"
-			}
-		}
-	}
 }

@@ -2,13 +2,13 @@
 {
 	"bonus1_end"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"10496.000000 -16193.000000 -8257.000000"
-		"end"		"13568.000000 -14912.000000 -7007.000000"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"bonus1_end"
+		"origin_name"		"zone_bonus_end"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -16,7 +16,7 @@
 			{
 				"start"		"0"
 				"end"		"1"
-				"prespeed"		"260"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"1"
@@ -31,13 +31,13 @@
 	}
 	"bonus1_start"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"0 255 255 255"
 		"display"		"Bottom"
-		"start"		"11327.000000 3935.000000 -2625.000000"
-		"end"		"12737.000000 4641.000000 -2143.000000"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"bonus1_startzone"
+		"origin_name"		"zone_bonus_start"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -60,13 +60,13 @@
 	}
 	"bonus2_end"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"-14785.000000 12448.000000 6175.000000"
-		"end"		"-13503.000000 13985.000000 6913.000000"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"garbonus_endzone"
+		"origin_name"		"rio_bonus_end"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -74,7 +74,7 @@
 			{
 				"start"		"0"
 				"end"		"1"
-				"prespeed"		"260"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"2"
@@ -89,13 +89,13 @@
 	}
 	"bonus2_start"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"0 255 255 255"
 		"display"		"Bottom"
-		"start"		"-14785.000000 14479.000000 14847.000000"
-		"end"		"-13503.000000 15057.000000 15104.900391"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"garbonus_startzone"
+		"origin_name"		"rio_bonus_start"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -118,13 +118,13 @@
 	}
 	"bonus3_end"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"1024.000000 6592.000000 4671.000000"
-		"end"		"2305.000000 9664.000000 6465.000000"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"cooked_end"
+		"origin_name"		"zone_hardexbonus_end"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -132,7 +132,7 @@
 			{
 				"start"		"0"
 				"end"		"1"
-				"prespeed"		"260"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"3"
@@ -147,13 +147,13 @@
 	}
 	"bonus3_start"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"0 255 255 255"
 		"display"		"Bottom"
-		"start"		"-8321.000000 7743.000000 9919.000000"
-		"end"		"-7871.000000 8513.000000 10561.000000"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"cooked_start_zone"
+		"origin_name"		"zone_hardexbonus_start"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -176,13 +176,13 @@
 	}
 	"bonus4_end"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"9087.000000 7488.000000 5311.000000"
-		"end"		"13697.000000 9729.000000 7041.000000"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"bonus4_end_zone"
+		"origin_name"		"zone_bonus4_end"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -190,7 +190,7 @@
 			{
 				"start"		"0"
 				"end"		"1"
-				"prespeed"		"260"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"4"
@@ -205,13 +205,13 @@
 	}
 	"bonus4_start"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"0 255 255 255"
 		"display"		"Bottom"
-		"start"		"14399.000000 8639.000000 14975.000000"
-		"end"		"15681.000000 9409.000000 15297.000000"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"bonus4_start_zone"
+		"origin_name"		"zone_bonus4_start"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -234,13 +234,13 @@
 	}
 	"main0_end"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"-1536.000000 -12033.000000 9023.000000"
-		"end"		"1536.000000 -10752.000000 9921.000000"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"end"
+		"origin_name"		"map_end"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -248,7 +248,7 @@
 			{
 				"start"		"0"
 				"end"		"1"
-				"prespeed"		"260"
+				"prespeed"		"350"
 				"TeleToStart"		"0"
 				"Validator"		"0"
 				"bonus"		"0"
@@ -263,13 +263,13 @@
 	}
 	"main0_start"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"0 255 255 255"
 		"display"		"Bottom"
-		"start"		"-11937.000000 -225.000000 2207.000000"
-		"end"		"-10527.000000 481.000000 2561.000000"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"stage1_startzone"
+		"origin_name"		"map_start"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -294,13 +294,13 @@
 	}
 	"stage2"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"-1951.969971 12048.000000 -8175.970215"
-		"end"		"-3360.030029 11344.000000 -8255.969727"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"stage2_startzone"
+		"origin_name"		"map_stage2"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -323,13 +323,13 @@
 	}
 	"stage3"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"127.000000 -9985.000000 991.000000"
-		"end"		"1537.000000 -9279.000000 1345.000000"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"stage3_startzone"
+		"origin_name"		"map_stage3"
 		"radius"		"10.000000"
 		"effects"
 		{
@@ -352,13 +352,13 @@
 	}
 	"stage4"
 	{
-		"type"		"Box"
+		"type"		"Trigger"
 		"color"		"255 0 255 255"
 		"display"		"Bottom"
-		"start"		"-705.000000 14079.000000 14527.000000"
-		"end"		"705.000000 14785.000000 14881.000000"
+		"start"		"0.000000 0.000000 0.000000"
+		"end"		"0.000000 0.000000 0.000000"
 		"origin"		"0.000000 0.000000 0.000000"
-		"origin_name"		"stage4_startzone"
+		"origin_name"		"map_stage4"
 		"radius"		"10.000000"
 		"effects"
 		{
